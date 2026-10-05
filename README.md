@@ -44,7 +44,7 @@ Below is a comparison of major commercial video game subscription and cloud gami
 
 ## 🔓 Open-Source GitHub Projects & Self-Hosted Infrastructure ⚡
 
-Below is the curated list of top open-source projects for self-hosted cloud gaming, game streaming servers, and cross-platform unified launchers. Sorted by **GitHub Stars_Count** (descending).
+Below is the curated list of top open-source projects for self-hosted cloud gaming, game streaming servers, and cross-platform unified launchers. Sorted by **GitHub_Stars_Count** (descending).
 
 | 📦 Project | ⭐ GitHub_Stars | 🛠️ Tech Stack & Purpose | 📌 Description |
 | :--- | :--- | :--- | :--- |
