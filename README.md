@@ -44,9 +44,9 @@ Below is a comparison of major commercial video game subscription and cloud gami
 
 ## 🔓 Open-Source GitHub Projects & Self-Hosted Infrastructure ⚡
 
-Below is the curated list of top open-source projects for self-hosted cloud gaming, game streaming servers, and cross-platform unified launchers. Sorted by **GitHub Star Count** (descending).
+Below is the curated list of top open-source projects for self-hosted cloud gaming, game streaming servers, and cross-platform unified launchers. Sorted by **GitHub Stars_Count** (descending).
 
-| 📦 Project | ⭐ Stars | 🛠️ Tech Stack & Purpose | 📌 Description |
+| 📦 Project | ⭐ GitHub_Stars | 🛠️ Tech Stack & Purpose | 📌 Description |
 | :--- | :--- | :--- | :--- |
 | **[Sunshine](https://github.com/LizardByte/Sunshine)** | [<img src="https://img.shields.io/github/stars/LizardByte/Sunshine?style=social&color=white" alt="Sunshine Stars"/>](https://github.com/LizardByte/Sunshine/stargazers) | C++, WebRTC, NVENC/VAAPI | **Self-hosted low-latency game streaming server** for Moonlight. Open-source alternative to NVIDIA GameStream. |
 | **[Moonlight PC](https://github.com/moonlight-stream/moonlight-qt)** | [<img src="https://img.shields.io/github/stars/moonlight-stream/moonlight-qt?style=social&color=white" alt="Moonlight PC Stars"/>](https://github.com/moonlight-stream/moonlight-qt/stargazers) | C++, Qt, OpenGLES | **GameStream/Sunshine client for PC & Mac**. Stream games from your cloud/desktop server at up to 4K 120 FPS. |
